@@ -4,10 +4,11 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Usage](#usage)
-- [Examples](#Examples)
-- [License](#license)
+- [Unix-Like-OS](#unix-like-os)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Usage](#usage)
+  - [Examples](#examples)
 
 ## About
 
@@ -77,28 +78,28 @@ exit
 
 ![0_初始界面](./img/0_初始界面.png)
 
-![1-0_fformat](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-0_fformat.png)
+![1-0_fformat](./img/1-0_fformat.png)
 
-![1-1_mkdir](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-1_mkdir.png)
+![1-1_mkdir](./img/1-1_mkdir.png)
 
-![1-2_cd](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-2_cd.png)
+![1-2_cd](./img/1-2_cd.png)
 
-![1-3_fcreat](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-3_fcreat.png)
+![1-3_fcreat](./img/1-3_fcreat.png)
 
-![1-4_fclose](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-4_fclose.png)
+![1-4_fclose](./img/1-4_fclose.png)
 
-![1-5_fopen](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-5_fopen.png)
+![1-5_fopen](./img/1-5_fopen.png)
 
-![1-6_fwrite](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-6_fwrite.png)
+![1-6_fwrite](./img/1-6_fwrite.png)
 
-![1-7_fread](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-7_fread.png)
+![1-7_fread](./img/1-7_fread.png)
 
-![1-8_fseek](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-8_fseek.png)
+![1-8_fseek](./img/1-8_fseek.png)
 
-![1-9_fdelete](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-9_fdelete.png)
+![1-9_fdelete](./img/1-9_fdelete.png)
 
-![1-10_exit](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-10_exit.png)
+![1-10_exit](./img/1-10_exit.png)
 
-![1-11_fmount-compare](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-11_fmount-compare.png)
+![1-11_fmount-compare](./img/1-11_fmount-compare.png)
 
-![1-11_fmount](/Users/agdxsyd/Siyu-Liao/selected_projects/Unix_Like_OS/img/1-11_fmount.png)
+![1-11_fmount](./img/1-11_fmount.png)
