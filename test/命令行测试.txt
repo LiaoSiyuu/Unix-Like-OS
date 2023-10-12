@@ -1,0 +1,60 @@
+————————————————————————
+命令行测试-1:
+————————————————————————
+mkdir bin
+mkdir etc
+mkdir home
+mkdir home
+
+ls
+
+cd home
+mkdir texts
+mkdir reports
+mkdir photos
+
+ls
+
+cd texts
+fcreat ReadMe.txt
+fclose 0
+cd /home/reports
+fcreat report.pdf
+fclose 0
+cd /home/photos
+fcreat photo.png
+fclose 0
+
+cd /home/texts
+ls
+fmount /Users/agdxsyd/ostest/ReadMe.txt ReadMe.txt
+cd /home/photos
+ls
+fmount /Users/agdxsyd/ostest/photo.png photo.png
+cd /home/reports
+ls
+fmount /Users/agdxsyd/ostest/report.pdf report.pdf
+
+exit
+
+————————————————————————
+命令行测试-2:
+————————————————————————
+ls
+mkdir test
+ls
+
+cd test
+fcreat Jerry
+ls
+
+fmount /Users/agdxsyd/ostest/800_bytes.txt Jerry
+
+fseek 0 500 0
+fread 0 500
+
+fwrite 0 300 hPzatGnAGnVfjOOrutEaFvMcFthePDgVYVQaOZcYVsRkWncztofdYxRqjPAEwVfGJgltldLRRwbGnAgLMJEtTyTIAMdkzhtCykclxbgpzihVEGACgXsdLCHLbtWACHZUuZORdgmHPwAQjqXlJPMrtvviPDLHHOPcYNMlQIBIpoaCUZcdBLRARqdPlWWtWiGwGldlNeoBccJDchfacATxLxyhuVVpcPVHGXNUgBrcbxzxzOnZtOSZMDTleAwnkIUfSVGhjuNbHFaCksyeQMhuCQEbFemauLjvfOHEGgxntCPa
+
+fclose 0
+
+exit
